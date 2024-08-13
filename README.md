@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Madiwale</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub page</h1>
+<h3 align="center">I am Abhishek, as a software engineer working as a web dev.</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmadiwale" alt="abhishekmadiwale" /></a> </p>
