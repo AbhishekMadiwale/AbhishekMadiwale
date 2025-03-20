@@ -6,7 +6,7 @@
 -->
 
 <!-- GIF -->
-<img align="right" height="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="200" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🌱 I’m currently learning **NextJS**
 
