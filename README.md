@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/in/abhishek-madiwale-4ab70190/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek madiwale" height="30" width="40" />
 </a>
+ I regularly write articles on [https://x.com/Abhishek501415](https://x.com/Abhishek501415)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
