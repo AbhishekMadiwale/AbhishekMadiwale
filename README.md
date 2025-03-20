@@ -8,7 +8,7 @@
 <!-- GIF -->
 <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
-<p
+<p>
 - 🌱 I’m currently learning **web3**
 
 - 🤝 I’m looking for help with **React**
