@@ -8,13 +8,11 @@
 <!-- GIF -->
 <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
-<p>
-  - 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **web3**
   
-  - 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **React**
   
-  - 📫 How to reach me **abhishek.madiwale@gmail.com**
-</p>
+- 📫 How to reach me **abhishek.madiwale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
